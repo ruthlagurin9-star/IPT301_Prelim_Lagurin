@@ -7,7 +7,7 @@
 
 <h1>Destinations</h1>
 
-<h2>Your Name: Jaycel Aplacador</h2>
+<h2>Your Name: RUTH LAGURIN</h2>
 
 <p>Course: BSIT</p>
 
