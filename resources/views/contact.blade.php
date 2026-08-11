@@ -18,9 +18,9 @@
 This page displays the contact information for the college.
 </p>
 
-<a href="/">Home</a> |
-<a href="/destinations">Destinations</a> |
-<a href="/gallery">Gallery</a> |
+<a href="/home">Home</a> 
+<a href="/destinations">Destinations</a> 
+<a href="/gallery">Gallery</a> 
 <a href="/contact">Contact</a>
 
 </body>

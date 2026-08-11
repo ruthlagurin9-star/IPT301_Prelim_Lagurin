@@ -17,7 +17,7 @@
 This page contains the list of images from various destinations.
 </p>
 
-<a href="/">Home</a> |
+<a href="/home">Home</a> |
 <a href="/destinations">Destinations</a> |
 <a href="/gallery">Gallery</a> |
 <a href="/contact">Contact</a>

@@ -17,7 +17,7 @@
 This page shows the destinations available.
 </p>
 
-<a href="/">Home</a> |
+<a href="/">home</a> |
 <a href="/destinations">Destinations</a> |
 <a href="/gallery">Gallery</a> |
 <a href="/contact">Contact</a>
